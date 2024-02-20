@@ -1,0 +1,25 @@
+{
+  "name": "iamadeel-atm",
+  "version": "1.0.1",
+  "description": "A TypeScript ATM package",
+  "main": "Atm project.js",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atm",
+    "typescript",
+    "banking"
+  ],
+  "readme": "README.md",
+  "author": "i am Adeel",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.12"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
